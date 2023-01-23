@@ -1,0 +1,83 @@
+[
+    {
+        "artnumber": 1,
+        "name": "Samsung s10+",
+        "brand": "samsung",
+        "weight": "140g",
+        "quantity": "1",
+        "stock":true,
+        "price":"800$"
+    },
+    {
+        "artnumber": 2,
+        "name": "Samsung a21",
+        "brand": "samsung",
+        "weight": "120g",
+        "quantity": "3",
+        "stock":true,
+        "price":"270$"
+    },
+    {
+        "artnumber": 3,
+        "name": "Core 15 8 gen",
+        "brand": "intel",
+        "weight": "15g",
+        "quantity": "11",
+        "stock":true,
+        "price":"11200$"
+    },
+    {
+        "artnumber": 4,
+        "name": "Iphone 14 pro max",
+        "brand": "apple",
+        "weight": "130g",
+        "quantity": "3",
+        "stock":true,
+        "price":"1399$"
+    },
+    {
+        "artnumber": 5,
+        "name": "Samsung a53",
+        "brand": "samsung",
+        "weight": "230g",
+        "quantity": "0",
+        "stock":false,
+        "price":"430$"
+    },
+    {
+        "artnumber": 6,
+        "name": "Samsung s22",
+        "brand": "samsung",
+        "weight": "145g",
+        "quantity": "5",
+        "stock":true,
+        "price":"1450$"
+    },
+    {
+        "artnumber": 7,
+        "name": "Core i9 13 gen",
+        "brand": "intel",
+        "weight": "D",
+        "quantity": "0",
+        "stock":false,
+        "price":"11200$"
+    },
+    {
+        "artnumber": 8,
+        "name": "Core i5 13 gen",
+        "brand": "intel",
+        "weight": "F",
+        "quantity": "11",
+        "stock":true,
+        "price":"600$"
+    },
+    {
+        "artnumber": 9,
+        "name": "Samsung a9",
+        "brand": "samsung",
+        "weight": "250gr",
+        "quantity": "11",
+        "stock":false,
+        "price":"1120$"
+    }
+  ]
